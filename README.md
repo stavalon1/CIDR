@@ -3,6 +3,10 @@
 ![task1 1](https://user-images.githubusercontent.com/66349803/178140938-c2bcb041-a33c-412b-82a8-a06d632bdfa0.jpg)
 
 ## Task 2:
+- Flow of network : 
+
+![server-diagram](https://user-images.githubusercontent.com/66349803/178145868-404f682c-3c00-4a42-a067-fe3fdf6afa6f.png)
+
 
 ## Task 3:
 ![task3](https://user-images.githubusercontent.com/66349803/178141716-7ceb3128-f664-45f3-9530-0c5e08aecd9e.jpeg)
